@@ -1,6 +1,6 @@
 /* DN3008 Generative Art, Cheng Ziren Alex 2026
  * Week 7 - Cybernetics & Emergence
- * Steersman
+ * Steersman - Conditions After Cheng
  */
 
 let popHistory = [];
